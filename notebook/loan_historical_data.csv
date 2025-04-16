@@ -1,0 +1,13 @@
+Client;Income;Credit;Gender;Unemployed;Safe
+K1;High;Excellent;Female;No;Yes
+K2;High;Excellent;Man;No;Yes
+K3;Low;Poor;Man;No;No
+K4;Low;Excellent;Female;Yes;Yes
+K5;Low;Excellent;Man;Yes;Yes
+K6;Low;Poor;Female;Yes;No
+K7;High;Poor;Man;No;Yes
+K8;High;Poor;Female;Yes;Yes
+K9;Low;Fair;Man;Yes;No
+K10;High;Fair;Female;No;Yes
+K11;Low;Fair;Female;Yes;No
+K12;Low;Fair;Man;No;Yes
